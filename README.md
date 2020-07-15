@@ -8,7 +8,7 @@ Right now I'm learning Google Cloud Plastform :rocket:
 ## Find me around the web 🌎:
   - Sharing updates on <a href=" https://www.linkedin.com/in/katerine-perdomo-moreno/">LinkedIn</a> :briefcase:
   
-  - Interactions on <a href="https://twitter.com/Katerin_Perdom">Twitter</a> :dancer:
+  
 
 <!--
 **KaterinPerdom/KaterinPerdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
