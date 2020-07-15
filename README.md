@@ -1,6 +1,6 @@
 ### Hi I'm Katerin :relaxed:
 
-<
+<img src= "https://github.com/KaterinPerdom/KaterinPerdom/blob/master/KaterinePerdomo.jpg">
 <!--
 **KaterinPerdom/KaterinPerdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
