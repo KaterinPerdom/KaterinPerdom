@@ -1,6 +1,14 @@
 ### Hi I'm Katerin :relaxed:
 
-<img src= "https://github.com/KaterinPerdom/KaterinPerdom/blob/master/KaterinePerdomo.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica" >
+<img src= "https://github.com/KaterinPerdom/KaterinPerdom/blob/master/KaterinePerdomo.jpg">
+I'm a Python Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Enjoy share my knowledge.:information_desk_person:
+
+Right now I'm learning Google Cloud Plastform :rocket: 
+
+## Find me around the web 🌎:
+- Twitter <a href="https://twitter.com/Katerin_Perdom">
+- LinkedIn <a href=" https://www.linkedin.com/in/katerine-perdomo-moreno/ ">
+
 <!--
 **KaterinPerdom/KaterinPerdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
